@@ -22,7 +22,7 @@ class testsTests: XCTestCase {
     }
 
     func testKmNaMile() {
-        // This is an example of a functional test case.
+        // This is an example of a functional test case
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         let kmStart: Float = 1.0
         let mile = Konwerter.sharedInstance.zamien(kmStart, dlaTypuKonwersji: .kmNaMile)
