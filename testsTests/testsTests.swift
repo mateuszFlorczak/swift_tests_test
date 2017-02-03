@@ -4,7 +4,7 @@
 //
 //  Created by Mateusz Florczak on 12/05/16.
 //  Copyright © 2016 test. All rights reserved.
-// s
+// s2
 
 import XCTest
 @testable import tests
