@@ -2,7 +2,7 @@
 //  testsTests.swift
 //  testsTests
 //
-//  Created by Mateusz Florczak on 12/05/16.
+//  Created by Mateusz Florczak on 12/05/16.s
 //  Copyright © 2016 test. All rights reserved.
 // s2
 
